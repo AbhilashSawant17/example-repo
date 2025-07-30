@@ -1,2 +1,2 @@
 # example-repo
-A sample description in here
+this is a simple, hello world!
